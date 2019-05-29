@@ -8,7 +8,7 @@ https://repo.continuum.io/archive/index.html?fbclid=IwAR1ZHQSWI5YX6UkGSO3JbF97jt
 ### pip install tensorflow -U --pre
 ### pip install keras -U --pre
 
-### AttributeError: module 'keras.backend' has no attribute 'get_uid'
+## AttributeError: module 'keras.backend' has no attribute 'get_uid'
 ### pip uninstall tensorflow
 ### pip install tensorflow==1.2.0
 ### pip install --upgrade keras==2.1.0
