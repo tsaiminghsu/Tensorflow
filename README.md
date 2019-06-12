@@ -13,3 +13,6 @@ https://repo.continuum.io/archive/index.html?fbclid=IwAR1ZHQSWI5YX6UkGSO3JbF97jt
 ------------------or------------------
 ## AttributeError: module 'keras.backend' has no attribute 'get_uid'
 ### pip install --upgrade keras==2.1.0
+## FutureWarning: Conversion of the second argument of issubdtype from float to np.floating is deprecated. In future, it will be treated as np.float64 == np.dtype(float).type.
+### pip install numpy==1.13.0
+
