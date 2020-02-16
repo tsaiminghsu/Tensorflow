@@ -16,5 +16,5 @@ https://repo.continuum.io/archive/index.html?fbclid=IwAR1ZHQSWI5YX6UkGSO3JbF97jt
 ## FutureWarning: Conversion of the second argument of issubdtype from float to np.floating is deprecated. In future, it will be treated as np.float64 == np.dtype(float).type.
 ### pip install numpy==1.13.0
 ## ImportError: No module named 'cv2'
-### conda install -c menpo opencv
+### conda install cv2
 
